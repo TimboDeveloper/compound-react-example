@@ -39,15 +39,15 @@ import { Carousel } from './carousel'
 
 Please note that for this example to work, you need to import the required css for the tools and toolsTitle component to work.
 
-Customization
+## Customization
 You can customize the appearance of the carousel by passing additional props to the components or by overriding the default styles with your own CSS.
 
 The styles are defined in the ./styles file, it's recommended to modify them in order to fit your needs.
 
-Limitations
+## Limitations
 Please note that this library is provided as is, and it is expected that you will customize it to suit your needs. It is also assumed that you have a basic understanding of React and how to use functional components.
 
 Also it's a good practice to use them as a guide to develop your own carousel or as a base to customize it to your own design, it's not recommended to use it as is in production.
 
-Conclusion
+## Conclusion
 The Carousel component library is a useful tool for creating a simple carousel in React. It provides a set of reusable components that can be composed together to create a complete carousel. It's easy to customize to fit your needs and it provides a good foundation to build from.
